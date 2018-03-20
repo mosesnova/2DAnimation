@@ -1,0 +1,8 @@
+<update>
+
+	<installer product="Reader" 
+				URL="http://update.adobe.com/pub/adobe/acrobatreader/win/5.x/rp500enu.xml" 
+				build="2001032100" date="03-21-2001" version="5.0"
+	/>
+
+</update>
